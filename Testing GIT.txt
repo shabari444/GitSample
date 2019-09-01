@@ -1,0 +1,1 @@
+Hi, Now Iam cerating a sample file in GIT repository to test the git commands.
